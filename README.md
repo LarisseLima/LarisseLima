@@ -1,16 +1,14 @@
-### Hi there 👋
+# Larisse Lima :woman_technologist:
 
-<!--
-**LarisseLima/LarisseLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LarisseLima)](https://github.com/LarisseLima)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larisselima/)](https://www.linkedin.com/in/larisselima/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larisse.lima2@gmail.com)](mailto:larisse.lima2@gmail.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hellooo! 👋 Welcome to my profile
+
+My name is Larisse and I'm  web developer.
+
+ - 💙 In love with JavaScript
+
+ - - 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, Java, SQL e em busca de aprender muito mais!
