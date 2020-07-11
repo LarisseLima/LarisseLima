@@ -11,4 +11,5 @@ My name is Larisse and I'm  web developer.
 
  - 💙 In love with JavaScript
 
- - - 💻 **Languages:** Html, CSS, JavaScript, Node.js, Java, SQL and looking for learning much more!
+ - - 💻 **Languages:** Html, CSS, JavaScript, Node.js, Java,  and looking for learning much more!
+ - - 💾 **Databases:** MongoDB, MySQL, PostgreSQL, 
