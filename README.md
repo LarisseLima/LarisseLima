@@ -3,7 +3,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Larisse Lima and I'm  Front-end Student at {Reprograma}.
+My name is Larisse Lima and I'm  Front-end Development Student at {Reprograma}
 
 - 💙 In love with JavaScript
 
