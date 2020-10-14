@@ -7,7 +7,7 @@ My name is Larisse Lima and I'm  Front-end Development Student at {Reprograma}
 
 - 💛 In love with JavaScript
 
-- 💻 **Languages:** Html, CSS, Bootstrap, JavaScript, Angular, Node.js, Java,  and looking for learning much more!
+- 💻 **Languages:** Html, CSS, Bootstrap, JavaScript, Node.js, Angular, Java,  and looking for learning much more!
 - 💾 **Databases:** MongoDB, MySQL,Sqlite, PostgreSQL..
 
 
