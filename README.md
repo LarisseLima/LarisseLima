@@ -3,7 +3,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Larisse Lima and I'm  Front-end Developer.
+My name is Larisse Lima and I'm  Front-end Developer and graduate student in Systems Analysis and Development.
 
 - In love with JavaScript 💛 
 
