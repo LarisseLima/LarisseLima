@@ -7,7 +7,7 @@ My name is Larisse Lima I'm  Front-end Developer and graduate student in Systems
 
 - In love with JavaScript 💛 
 
--  **Languages 💻 :** Html, CSS, Bootstrap, JavaScript, JQuery, Node, Angular, React, Java, Flutter and looking for learning much more!
+-  **Languages 💻 :** Html, CSS, Bootstrap, JavaScript, Node, Angular, React, Java, Flutter and looking for learning much more!
 
 
 
