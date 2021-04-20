@@ -7,7 +7,7 @@
 
 - In love with JavaScript 💛 
 
--  **Languages 💻 :** Html, CSS, Bootstrap, JavaScript, React, Java, Flutter and looking for learning much more!
+-  **Languages 💻 :** Html, CSS, Bootstrap, JavaScript, React, Flutter and looking for learning much more!
 
 
 
