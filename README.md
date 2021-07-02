@@ -2,7 +2,7 @@
 
 
 ### Hellooo! 👋 Welcome to my profile
- My name is Larisse Lima I'm  Front-end Developer, graduate student in Systems Analysis and Development. And Mobile developer with Flutter.
+ My name is Larisse Lima I'm  Front-end Developer And Mobile developer with Flutter, graduate student in Systems Analysis and Development. 
 
 
 - In love with JavaScript 💛 
