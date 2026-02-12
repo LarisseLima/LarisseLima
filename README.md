@@ -2,10 +2,7 @@
 
 
 ### Hellooo! 👋 Welcome to my profile
- My name is Larisse Lima I'm   Mobile Developer, Graduated in Analysis and Systems Development. 
-
-
-- In love with Flutter 💙 
+ My name is Larisse Lima, I'm   Mobile Developer Graduated in Analysis and Systems Development. 
 
 Follow me on my social networks:
 
